@@ -14,9 +14,7 @@
 ```javascript
 const om = {
   name:       "Om Santosh Jadhav",
-  location:   "Dombivli, Mumbai 🇮🇳",
   role:       "MERN Stack Developer",
-  education:  "BScIT @ Sahyog College, Mumbai University (2023–2026)",
   email:      "omsjadhav098@gmail.com",
   phone:      "7276635255",
   stack:      ["MongoDB", "Express.js", "React.js", "Node.js"],
@@ -25,8 +23,6 @@ const om = {
 };
 ```
 
-- 🎓 Currently pursuing **BScIT** from Sahyog College, Thane (Mumbai University)
-- 💼 Completed a **3-month Web Development Internship** at DiDiLearning Pvt. Ltd.
 - 🔭 Building full-stack projects with the **MERN Stack**
 - 🌱 Always learning — currently exploring **advanced React patterns & system design**
 - 📬 Reach me at **omsjadhav098@gmail.com**
@@ -66,14 +62,6 @@ const om = {
 
 ---
 
-## 💼 Experience
-
-**Web Development Intern — DiDiLearning Pvt. Ltd.** *(3 Months)*
-- Built and maintained web application features using modern frontend & backend technologies
-- Worked with Git version control and collaborated in a real-world development environment
-- Developed and tested UI components under senior developer mentorship
-
----
 
 ## 📊 GitHub Stats
 
